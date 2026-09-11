@@ -720,7 +720,7 @@ export default function App() {
                 <span className="sum-label">
                   <Calendar className="icon-inline text-purple" /> 모집 기간
                 </span>
-                <strong className="sum-val">모집 중 · 2026년 9월 중 개강(과정별 상이)</strong>
+                <strong className="sum-val">모집 중 · 2026년 9~10월 중 개강(과정별 상이)</strong>
               </div>
             </div>
             <div className="summary-note">
